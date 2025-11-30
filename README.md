@@ -1,1 +1,1 @@
-# screenshoot.nvim
+# snapshoot.nvim
